@@ -1,0 +1,17 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "single.js",
+  "scripts": {
+    "single": "node single.js",
+    "open-not-formatted": "node open-close-notExtensive.js",
+    "open": "node open-close-extensive.js",
+    "liskov": "node liskov.js",
+    "depen": "node dependencyInversion.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
