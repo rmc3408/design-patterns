@@ -10,5 +10,5 @@
 - https://www.youtube.com/c/DevSage </br>
 - GitHub: https://github.com/pkellz/devsage/tree/master/DesignPatterns
 
-### DevSage - Youtube
+### TypeScript Design Patterns - udemy
 - https://www.udemy.com/course/typescript-design-patterns/
